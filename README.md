@@ -1,6 +1,6 @@
 # City Route Planner (BFS)
 
-**Course Assignment – Graph Search & Object-Oriented Design**
+**Graph Search & Object-Oriented Design**
 
 ## Overview
 This project is a command-line city route planner implemented in Python. It models a network of U.S. cities as a graph and uses **Breadth-First Search (BFS)** to find a valid route between a starting city and a destination city. The project was completed as a class assignment to practice graph-based problem solving, object-oriented programming, and search algorithms.
