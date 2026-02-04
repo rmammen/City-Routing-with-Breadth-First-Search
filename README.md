@@ -7,7 +7,7 @@ This project is a command-line city route planner implemented in Python. It mode
 
 Rather than relying on external libraries or APIs, this project focuses on building the core logic from scratch to demonstrate an understanding of how routing and pathfinding systems work under the hood.
 
----
+
 
 ## Key Concepts Demonstrated
 - Graph representation using custom Python classes
@@ -16,7 +16,7 @@ Rather than relying on external libraries or APIs, this project focuses on build
 - Command-line argument parsing with `argparse`
 - Structured data modeling using dictionaries and tuples
 
---
+
 
 ## How It Works
 - Each city is represented as a node in a graph.
@@ -26,7 +26,7 @@ Rather than relying on external libraries or APIs, this project focuses on build
 
 > **Note:** BFS minimizes the number of stops, not total mileage. Distances are included for instruction output but are not used to optimize the route.
 
----
+
 
 ## Running the Program
 
